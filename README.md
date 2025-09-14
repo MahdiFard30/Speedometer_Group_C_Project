@@ -1,4 +1,4 @@
-Speedometer_project
+Speedometer
 Teamwork project.
 
 This is an embedded programming project with the task of teaching us real time communication via:
