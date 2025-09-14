@@ -38,10 +38,15 @@ make
 
 
 Commands to use UART and CAN, you need to have the two microcontrollers for this (from root of the project):
+
 mkdir build (if it does not exist)
+
 cd build
+
 cmake ..
+
 make use_uart
+
 make
-make upload_client upload_server
+
 ./client && ./server
