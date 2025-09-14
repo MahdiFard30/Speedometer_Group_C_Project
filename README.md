@@ -23,12 +23,19 @@ Project description
 
 
 Command to use TCP/IP (from root of the project):
+
 mkdir build (if it does not exist)
+
 cd build
+
 cmake ..
+
 make use_tcp
+
 make
+
 ./client && ./server
+
 
 Commands to use UART and CAN, you need to have the two microcontrollers for this (from root of the project):
 mkdir build (if it does not exist)
