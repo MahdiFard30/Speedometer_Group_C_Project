@@ -1,0 +1,6 @@
+/home/mahdi/Documents/av24tr-team-c/build/CMakeFiles/client.dir
+/home/mahdi/Documents/av24tr-team-c/build/CMakeFiles/server.dir
+/home/mahdi/Documents/av24tr-team-c/build/CMakeFiles/use_uart.dir
+/home/mahdi/Documents/av24tr-team-c/build/CMakeFiles/use_tcp.dir
+/home/mahdi/Documents/av24tr-team-c/build/CMakeFiles/edit_cache.dir
+/home/mahdi/Documents/av24tr-team-c/build/CMakeFiles/rebuild_cache.dir
