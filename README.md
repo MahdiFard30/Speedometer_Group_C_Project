@@ -4,6 +4,7 @@ Teamwork project.
 This is an embedded programming project with the task of teaching us real time communication via:
 
 1 Local network (TCP/IP)
+
 2 Serial and CAN/BUS communication through ESP32-EVB microcontrollers
 
 The GUI for both client and server are implemented via the QT framework. Serial communication was also implemented via QT.
