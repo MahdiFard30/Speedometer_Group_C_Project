@@ -2,6 +2,7 @@ Speedometer
 Teamwork project.
 
 This is an embedded programming project with the task of teaching us real time communication via:
+
 1 Local network (TCP/IP)
 2 Serial and CAN/BUS communication through ESP32-EVB microcontrollers
 
